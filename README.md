@@ -1,0 +1,4 @@
+spawncamping-wookie
+===================
+
+MyProjectPrivate
